@@ -1,1 +1,1 @@
-//alert("Hey!");
+alert("!!This page cannot be found!!");
